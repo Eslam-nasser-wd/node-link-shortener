@@ -1,4 +1,5 @@
 {
-	"db": "mongodb://localhost:27017/short_link",
+	// "db": "mongodb://localhost:27017/short_link",
+	"db": "mongodb://7946549573:5950804709@ds163699.mlab.com:63699/link_shortener",
 	"secret": "94982bf5-85f7-436f-9058-28357aa23e3a@ds139979"
 }
